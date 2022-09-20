@@ -1,5 +1,11 @@
+
+import FetchPokemonList from "./PokemonList";
+
 function App() {
-  return null;
+
+    return <div className="App">
+        <FetchPokemonList/>
+    </div>
 }
 
 export default App;
