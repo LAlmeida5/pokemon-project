@@ -4,7 +4,7 @@
 export type Pokemon = {
     id: number,
     name: string,
-    imageSrc: string,
+    image_src: string,
     type: string,
     description: string,
     notes: string,
